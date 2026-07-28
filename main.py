@@ -8,3 +8,4 @@ in_autotests_we_trust(10, '10')
 
 in_autotests_we_trust(0, False)
 print("Hello from Turkey")
+print("Testing Push from PyCharm!")
